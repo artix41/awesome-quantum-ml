@@ -14,6 +14,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 ## Quantum Neural Networks
 
+* [Quantum Boltzmann Machine](https://arxiv.org/abs/1601.02036) (2016)
 * [A Quantum Hopfield Neural Network](https://arxiv.org/abs/1710.03599) (2017)
 * [Quantum Variational Autoencoder](https://arxiv.org/abs/1802.05779) (2018)
 * [Quantum generative adversarial learning (Lloyd et al.)](https://arxiv.org/abs/1804.08641) (2018)
