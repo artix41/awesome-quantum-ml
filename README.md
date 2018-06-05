@@ -22,6 +22,10 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum generative adversarial learning (Dallaire-Demers et al.)](https://arxiv.org/abs/1804.09139) (2018)
 * [Universal discriminative quantum neural networks](https://arxiv.org/abs/1805.08654) (2018)
 
+## Kernel Methods
+
+* [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/pdf/1803.07128.pdf) (2018)
+
 ## Tensor Networks
 
 * [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537)
