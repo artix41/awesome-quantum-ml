@@ -30,6 +30,10 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537)
 
+## Reinforcement learning
+
+* [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/pdf/1709.07848.pdf) (2017)
+
 # Other awesome lists
 
 * [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
