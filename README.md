@@ -34,6 +34,10 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/pdf/1709.07848.pdf) (2017)
 
+## Optimization
+
+* [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/pdf/1612.01789.pdf) (2016)
+
 # Other awesome lists
 
 * [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
