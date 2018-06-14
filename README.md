@@ -11,6 +11,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806) (2017)
 * [Quantum Machine Learning: a classical perspective](https://arxiv.org/abs/1707.08561) (2017)
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757) (2017)
+* [Quantum machine learning for data scientists](https://arxiv.org/pdf/1804.10068.pdf) (2018)
 
 ## General supervised learning
 
