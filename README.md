@@ -24,8 +24,8 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [A Quantum Hopfield Neural Network](https://arxiv.org/abs/1710.03599) (2017)
 * [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/pdf/1712.05304.pdf) (2017)
 * [Quantum Variational Autoencoder](https://arxiv.org/abs/1802.05779) (2018)
-* [Quantum generative adversarial learning (Lloyd et al.)](https://arxiv.org/abs/1804.09139) (2018)
-* [Quantum generative adversarial learning (Dallaire-Demers et al.)](https://arxiv.org/abs/1804.08641) (2018)
+* [Quantum generative adversarial learning](https://arxiv.org/abs/1804.09139) (2018)
+* [Quantum generative adversarial networks](https://arxiv.org/abs/1804.08641) (2018)
 * [Universal discriminative quantum neural networks](https://arxiv.org/abs/1805.08654) (2018)
 * [Continuous-variable quantum neural networks](https://arxiv.org/pdf/1806.06871.pdf) (2018)
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf) (2018)
@@ -42,6 +42,8 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 ## Reinforcement learning
 
 * [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/pdf/1709.07848.pdf) (2017)
+* [Quantum reinforcement learning](https://arxiv.org/abs/0810.3828) (2008)
+* [Reinforcement Learning Using Quantum Boltzmann Machines](https://arxiv.org/abs/1612.05695) (2016)
 
 ## Optimization
 
