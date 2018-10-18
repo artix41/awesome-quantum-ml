@@ -38,9 +38,9 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 ### Reinforcement learning
 
-* [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/pdf/1709.07848.pdf) (2017)
 * [Quantum reinforcement learning](https://arxiv.org/abs/0810.3828) (2008)
 * [Reinforcement Learning Using Quantum Boltzmann Machines](https://arxiv.org/abs/1612.05695) (2016)
+* [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/pdf/1709.07848.pdf) (2017)
 
 ### Optimization
 
