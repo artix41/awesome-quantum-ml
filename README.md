@@ -13,11 +13,13 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757) (2017)
 * [Quantum machine learning for data scientists](https://arxiv.org/pdf/1804.10068.pdf) (2018)
 
-## General supervised learning
+## Gate-based quantum computing
+
+### General supervised learning
 
 * [Circuit-centric quantum classifiers](https://arxiv.org/pdf/1804.00633.pdf) (2018)
 
-## Quantum Neural Networks
+### Neural Networks
 
 * [Quantum Boltzmann Machine](https://arxiv.org/abs/1601.02036) (2016)
 * [Quantum Perceptron Model](https://arxiv.org/abs/1602.04799) (2016)
@@ -27,25 +29,35 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum generative adversarial learning (Lloyd et al.)](https://arxiv.org/abs/1804.09139) (2018)
 * [Quantum generative adversarial learning (Dallaire-Demers et al.)](https://arxiv.org/abs/1804.08641) (2018)
 * [Universal discriminative quantum neural networks](https://arxiv.org/abs/1805.08654) (2018)
-* [Continuous-variable quantum neural networks](https://arxiv.org/pdf/1806.06871.pdf) (2018)
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf) (2018)
 
-## Kernel Methods
-
-* [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/pdf/1803.07128.pdf) (2018)
-
-## Tensor Networks
+### Tensor Networks
 
 * [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537) (2018)
 * [Hierarchical quantum classifiers](https://arxiv.org/pdf/1804.03680v1.pdf) (2018)
 
-## Reinforcement learning
+### Reinforcement learning
 
 * [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/pdf/1709.07848.pdf) (2017)
 
-## Optimization
+### Optimization
 
 * [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/pdf/1612.01789.pdf) (2016)
+
+## Continuous-variable quantum computing
+
+### Neural networks
+
+* [Continuous-variable quantum neural networks](https://arxiv.org/pdf/1806.06871.pdf) (2018)
+
+### Kernel Methods
+
+* [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/pdf/1803.07128.pdf) (2018)
+
+### Machine learning to help quantum computing
+
+* [Machine learning method for state preparation and gate synthesis on photonic quantum computers](https://arxiv.org/abs/1807.10781) (2018)
+* [Near-deterministic production of universal quantum photonic gates enhanced by machine learning](https://arxiv.org/abs/1809.04680) (2018)
 
 # Other awesome lists
 
