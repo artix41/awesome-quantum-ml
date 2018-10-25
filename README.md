@@ -13,7 +13,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757) (2017)
 * [Quantum machine learning for data scientists](https://arxiv.org/pdf/1804.10068.pdf) (2018)
 
-## Gate-based quantum computing
+## Discrete-variables quantum computing
 
 ### General supervised learning
 
@@ -46,7 +46,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/pdf/1612.01789.pdf) (2016)
 
-## Continuous-variable quantum computing
+## Continuous-variables quantum computing
 
 ### Neural networks
 
