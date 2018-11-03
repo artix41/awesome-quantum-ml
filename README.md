@@ -52,15 +52,12 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 ### Neural networks
 
 * [Continuous-variable quantum neural networks](https://arxiv.org/pdf/1806.06871.pdf) (2018)
+* [Machine learning method for state preparation and gate synthesis on photonic quantum computers](https://arxiv.org/abs/1807.10781) (2018)
+* [Near-deterministic production of universal quantum photonic gates enhanced by machine learning](https://arxiv.org/abs/1809.04680) (2018)
 
 ### Kernel Methods
 
 * [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/pdf/1803.07128.pdf) (2018)
-
-### Machine learning to help quantum computing
-
-* [Machine learning method for state preparation and gate synthesis on photonic quantum computers](https://arxiv.org/abs/1807.10781) (2018)
-* [Near-deterministic production of universal quantum photonic gates enhanced by machine learning](https://arxiv.org/abs/1809.04680) (2018)
 
 # Other awesome lists
 
