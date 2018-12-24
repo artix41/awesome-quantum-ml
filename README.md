@@ -1,6 +1,6 @@
 # Awesome Quantum Machine Learning
 
-A list of awesome papers and cool resources in the field of quantum machine learning (machine learning algorithms for quantum devices). Don't hesitate to suggest resources I could have forgotten (I take pull requests).
+A list of awesome papers and cool resources in the field of quantum machine learning (machine learning algorithms running on quantum devices). It does not include the use of classical ML algorithms for quantum purpose. Don't hesitate to suggest resources I could have forgotten (I take pull requests).
 
 # Papers
 
