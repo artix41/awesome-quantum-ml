@@ -33,6 +33,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf) (2018)
 * [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf) (2018)
 * [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/pdf/1810.11922.pdf) (2018)
+* [Barren plateaus in quantum neural network training landscapes](https://arxiv.org/pdf/1803.11173.pdf) (2018)
 
 ### Tensor Networks
 
