@@ -25,6 +25,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum Perceptron Model](https://arxiv.org/abs/1602.04799) (2016)
 * [Quantum autoencoders via quantum adders with genetic algorithms](https://arxiv.org/abs/1709.07409) (2017)
 * [A Quantum Hopfield Neural Network](https://arxiv.org/abs/1710.03599) (2017)
+* [Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/pdf/1711.11240.pdf) (2017)
 * [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/pdf/1712.05304.pdf) (2017)
 * [Quantum Variational Autoencoder](https://arxiv.org/abs/1802.05779) (2018)
 * [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
