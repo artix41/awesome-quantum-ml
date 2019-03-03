@@ -19,7 +19,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Circuit-centric quantum classifiers](https://arxiv.org/pdf/1804.00633.pdf) (2018)
 
-### Neural Networks
+### Variational circuits
 
 * [Quantum Boltzmann Machine](https://arxiv.org/abs/1601.02036) (2016)
 * [Quantum Perceptron Model](https://arxiv.org/abs/1602.04799) (2016)
@@ -35,6 +35,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf) (2018)
 * [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/pdf/1810.11922.pdf) (2018)
 * [Quantum Convolutional Neural Networks](https://arxiv.org/pdf/1810.03787.pdf) (2018)
+* [Graph Cut Segmentation Methods Revisited with a Quantum Algorithm](https://arxiv.org/pdf/1812.03050.pdf) (2018)
 
 ### Tensor Networks
 
