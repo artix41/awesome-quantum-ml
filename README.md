@@ -53,6 +53,10 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/pdf/1612.01789.pdf) (2016)
 
+### SVM
+
+* [Quantum Sparse Support Vector Machines](https://arxiv.org/pdf/1902.01879.pdf) (2019)
+
 ## Continuous-variables quantum computing
 
 ### Neural networks
