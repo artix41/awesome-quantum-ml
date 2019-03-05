@@ -11,13 +11,13 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806) (2017)
 * [Quantum Machine Learning: a classical perspective](https://arxiv.org/abs/1707.08561) (2017)
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757) (2017)
-* [Quantum machine learning for data scientists](https://arxiv.org/pdf/1804.10068.pdf) (2018)
+* [Quantum machine learning for data scientists](https://arxiv.org/1804.10068) (2018)
 
 ## Discrete-variables quantum computing
 
-### General supervised learning
+### Theory
 
-* [Circuit-centric quantum classifiers](https://arxiv.org/pdf/1804.00633.pdf) (2018)
+* [Quantum Statistical Inference](https://arxiv.org/abs/1812.04877) (2018)
 
 ### Variational circuits
 
@@ -25,13 +25,14 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum Perceptron Model](https://arxiv.org/abs/1602.04799) (2016)
 * [Quantum autoencoders via quantum adders with genetic algorithms](https://arxiv.org/abs/1709.07409) (2017)
 * [A Quantum Hopfield Neural Network](https://arxiv.org/abs/1710.03599) (2017)
-* [Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/pdf/1711.11240.pdf) (2017)
-* [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/pdf/1712.05304.pdf) (2017)
+* [Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240) (2017)
+* [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304) (2017)
 * [Quantum Variational Autoencoder](https://arxiv.org/abs/1802.05779) (2018)
 * [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
-* [Barren plateaus in quantum neural network training landscapes](https://arxiv.org/pdf/1803.11173.pdf) (2018)
+* [Barren plateaus in quantum neural network training landscapes](https://arxiv.org/abs/1803.11173) (2018)
 * [Quantum generative adversarial learning](https://arxiv.org/abs/1804.09139) (2018)
 * [Quantum generative adversarial networks](https://arxiv.org/abs/1804.08641) (2018)
+* [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633) (2018)
 * [Universal discriminative quantum neural networks](https://arxiv.org/abs/1805.08654) (2018)
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf) (2018)
 * [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf) (2018)
@@ -49,7 +50,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Quantum reinforcement learning](https://arxiv.org/abs/0810.3828) (2008)
 * [Reinforcement Learning Using Quantum Boltzmann Machines](https://arxiv.org/abs/1612.05695) (2016)
-* [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/pdf/1709.07848.pdf) (2017)
+* [Generalized Quantum Reinforcement Learning with Quantum Technologies](https://arxiv.org/abs/1709.07848) (2017)
 
 ### Optimization
 
@@ -57,19 +58,19 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 ### SVM
 
-* [Quantum Sparse Support Vector Machines](https://arxiv.org/pdf/1902.01879.pdf) (2019)
+* [Quantum Sparse Support Vector Machines](https://arxiv.org/abs/1902.01879) (2019)
 
 ## Continuous-variables quantum computing
 
 ### Neural networks
 
-* [Continuous-variable quantum neural networks](https://arxiv.org/pdf/1806.06871.pdf) (2018)
+* [Continuous-variable quantum neural networks](https://arxiv.org/abs/1806.06871) (2018)
 * [Machine learning method for state preparation and gate synthesis on photonic quantum computers](https://arxiv.org/abs/1807.10781) (2018)
 * [Near-deterministic production of universal quantum photonic gates enhanced by machine learning](https://arxiv.org/abs/1809.04680) (2018)
 
 ### Kernel Methods
 
-* [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/pdf/1803.07128.pdf) (2018)
+* [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/1803.07128) (2018)
 
 # Other awesome lists
 
