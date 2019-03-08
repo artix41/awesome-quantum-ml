@@ -19,6 +19,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 ### Theory
 
 * [Quantum Statistical Inference](https://arxiv.org/abs/1812.04877) (2018)
+* [Quantum hardness of learning shallow classical circuits](https://arxiv.org/pdf/1903.02840.pdf) (2019)
 
 ### Variational circuits
 
