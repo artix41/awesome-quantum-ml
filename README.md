@@ -79,3 +79,4 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 * [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
+* [A Guide to QC and QI](https://github.com/gate42qc/Guide-to-QC-and-QI)
