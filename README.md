@@ -40,6 +40,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Universal discriminative quantum neural networks](https://arxiv.org/abs/1805.08654) (2018)
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf) (2018)
 * [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf) (2018)
+* [Quantum generative adversarial learning in a superconducting quantum circuit](https://arxiv.org/pdf/1808.02893.pdf) (2018)
 * [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/pdf/1810.11922.pdf) (2018)
 * [Quantum Convolutional Neural Networks](https://arxiv.org/pdf/1810.03787.pdf) (2018)
 * [Graph Cut Segmentation Methods Revisited with a Quantum Algorithm](https://arxiv.org/pdf/1812.03050.pdf) (2018)
