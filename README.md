@@ -19,7 +19,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 ### Theory
 
 * [Quantum Statistical Inference](https://arxiv.org/abs/1812.04877) (2018)
-* [Quantum hardness of learning shallow classical circuits](https://arxiv.org/pdf/1903.02840.pdf) (2019)
+* [Quantum hardness of learning shallow classical circuits](https://arxiv.org/abs/1903.02840) (2019)
 
 ### Variational circuits
 
@@ -27,10 +27,11 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum Perceptron Model](https://arxiv.org/abs/1602.04799) (2016)
 * [Quantum autoencoders via quantum adders with genetic algorithms](https://arxiv.org/abs/1709.07409) (2017)
 * [A Quantum Hopfield Neural Network](https://arxiv.org/abs/1710.03599) (2017)
+* [Automated optimization of large quantum circuits with continuous parameters](https://arxiv.org/abs/1710.07345) (2017)
 * [Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240) (2017)
 * [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304) (2017)
-* [A generative modeling approach for benchmarking and training shallow quantum circuits](https://arxiv.org/pdf/1801.07686.pdf) (2018)
-* [Universal quantum perceptron as efficient unitary approximators](https://arxiv.org/pdf/1801.00934.pdf) (2018)
+* [A generative modeling approach for benchmarking and training shallow quantum circuits](https://arxiv.org/abs/1801.07686) (2018)
+* [Universal quantum perceptron as efficient unitary approximators](https://arxiv.org/abs/1801.00934) (2018)
 * [Quantum Variational Autoencoder](https://arxiv.org/abs/1802.05779) (2018)
 * [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/abs/1802.06002) (2018)
 * [Barren plateaus in quantum neural network training landscapes](https://arxiv.org/abs/1803.11173) (2018)
@@ -38,18 +39,18 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum generative adversarial networks](https://arxiv.org/abs/1804.08641) (2018)
 * [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633) (2018)
 * [Universal discriminative quantum neural networks](https://arxiv.org/abs/1805.08654) (2018)
-* [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf) (2018)
-* [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf) (2018)
-* [Quantum generative adversarial learning in a superconducting quantum circuit](https://arxiv.org/pdf/1808.02893.pdf) (2018)
-* [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/pdf/1810.11922.pdf) (2018)
-* [Quantum Convolutional Neural Networks](https://arxiv.org/pdf/1810.03787.pdf) (2018)
-* [Graph Cut Segmentation Methods Revisited with a Quantum Algorithm](https://arxiv.org/pdf/1812.03050.pdf) (2018)
-* [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/pdf/1902.10445.pdf) (2019)
+* [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/abs/1806.09729) (2018)
+* [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/abs/1806.11463) (2018)
+* [Quantum generative adversarial learning in a superconducting quantum circuit](https://arxiv.org/abs/1808.02893) (2018)
+* [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/abs/1810.11922) (2018)
+* [Quantum Convolutional Neural Networks](https://arxiv.org/abs/1810.03787) (2018)
+* [Graph Cut Segmentation Methods Revisited with a Quantum Algorithm](https://arxiv.org/abs/1812.03050) (2018)
+* [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445) (2019)
 
 ### Tensor Networks
 
 * [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537) (2018)
-* [Hierarchical quantum classifiers](https://arxiv.org/pdf/1804.03680v1.pdf) (2018)
+* [Hierarchical quantum classifiers](https://arxiv.org/abs/1804.03680v1) (2018)
 
 ### Reinforcement learning
 
@@ -59,7 +60,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 ### Optimization
 
-* [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/pdf/1612.01789.pdf) (2016)
+* [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/abs/1612.01789) (2016)
 
 ### SVM
 
