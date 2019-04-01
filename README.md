@@ -44,6 +44,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum generative adversarial learning in a superconducting quantum circuit](https://arxiv.org/abs/1808.02893) (2018)
 * [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/abs/1810.11922) (2018)
 * [Quantum Convolutional Neural Networks](https://arxiv.org/abs/1810.03787) (2018)
+* [An Artificial Neuron Implemented on an Actual Quantum Processor](https://arxiv.org/pdf/1811.02266.pdf) (2018)
 * [Graph Cut Segmentation Methods Revisited with a Quantum Algorithm](https://arxiv.org/abs/1812.03050) (2018)
 * [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445) (2019)
 
