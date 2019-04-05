@@ -62,6 +62,7 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 ### Optimization
 
 * [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/abs/1612.01789) (2016)
+* [Quantum algorithms and lower bounds for convex optimization](https://arxiv.org/pdf/1809.01731.pdf) (2018)
 
 ### SVM
 
