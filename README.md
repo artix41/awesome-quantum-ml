@@ -64,19 +64,21 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Quantum gradient descent and Newton’s method for constrained polynomial optimization](https://arxiv.org/abs/1612.01789) (2016)
 * [Quantum algorithms and lower bounds for convex optimization](https://arxiv.org/pdf/1809.01731.pdf) (2018)
 
-### SVM
+### Kernel methods and SVM
 
+* [Supervised learning with quantum enhanced feature spaces](https://arxiv.org/abs/1804.11326) (2018)
 * [Quantum Sparse Support Vector Machines](https://arxiv.org/abs/1902.01879) (2019)
+* [Sublinear quantum algorithms for training linear and kernel-based classifiers](https://arxiv.org/pdf/1904.02276.pdf) (2019)
 
 ## Continuous-variables quantum computing
 
-### Neural networks
+### Variational circuits
 
 * [Continuous-variable quantum neural networks](https://arxiv.org/abs/1806.06871) (2018)
 * [Machine learning method for state preparation and gate synthesis on photonic quantum computers](https://arxiv.org/abs/1807.10781) (2018)
 * [Near-deterministic production of universal quantum photonic gates enhanced by machine learning](https://arxiv.org/abs/1809.04680) (2018)
 
-### Kernel Methods
+### Kernel methods and SVM
 
 * [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/1803.07128) (2018)
 
