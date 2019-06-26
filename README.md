@@ -47,7 +47,8 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [An Artificial Neuron Implemented on an Actual Quantum Processor](https://arxiv.org/pdf/1811.02266.pdf) (2018)
 * [Graph Cut Segmentation Methods Revisited with a Quantum Algorithm](https://arxiv.org/abs/1812.03050) (2018)
 * [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445) (2019)
-* [Parameterized quantum circuits as machine learning models](https://arxiv.org/pdf/1906.07682.pdf) (2019)
+* [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682) (2019)
+* [Machine Learning Phase Transitions with a Quantum Processor](https://arxiv.org/abs/1906.10155) (2019)
 
 ### Tensor Networks
 
