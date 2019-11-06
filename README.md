@@ -23,6 +23,8 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 ### Variational circuits
 
+Variational circuits are quantum circuits with variable parameters that can be optimized to compute a given function. They can for instance be used to classify or predict properties of quantum and classical data, sample over complicated probability distributions (as generative models), or solve optimization and simulation problems.
+
 * [Quantum Boltzmann Machine](https://arxiv.org/abs/1601.02036) (2016)
 * [Quantum Perceptron Model](https://arxiv.org/abs/1602.04799) (2016)
 * [Quantum autoencoders via quantum adders with genetic algorithms](https://arxiv.org/abs/1709.07409) (2017)
@@ -50,6 +52,11 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 * [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682) (2019)
 * [Machine Learning Phase Transitions with a Quantum Processor](https://arxiv.org/abs/1906.10155) (2019)
 
+### QRAM-based quantum ML
+
+* [q-means: A quantum algorithm for unsupervised machine learning](https://arxiv.org/abs/1812.03584) (2018)
+* [Quantum Algorithms for Deep Convolutional Neural Networks](https://arxiv.org/abs/1911.01117) (2019)
+
 ### Tensor Networks
 
 * [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537) (2018)
@@ -68,9 +75,20 @@ A list of awesome papers and cool resources in the field of quantum machine lear
 
 ### Kernel methods and SVM
 
+Quantum circuits that are used to extract features from data or to improve kernel-based ML algorithms in general:
+
 * [Supervised learning with quantum enhanced feature spaces](https://arxiv.org/abs/1804.11326) (2018)
 * [Quantum Sparse Support Vector Machines](https://arxiv.org/abs/1902.01879) (2019)
 * [Sublinear quantum algorithms for training linear and kernel-based classifiers](https://arxiv.org/pdf/1904.02276.pdf) (2019)
+
+### Dequantization of quantum ML
+
+Kingdom of Ewin Tang. Papers showing that a given quantum machine learning algorithm does not lead to any improved performance compared to a classical equivalent (either asymptotically or including constant factors):
+
+* [A quantum-inspired classical algorithm for recommendation systems](https://arxiv.org/abs/1807.04271) (2018)
+* [Quantum-inspired classical algorithms for principal component analysis and supervised clustering](https://arxiv.org/abs/1811.00414) (2018)
+* [Quantum-inspired low-rank stochastic regression with logarithmic dependence on the dimension](https://arxiv.org/abs/1811.04909) (2018)
+* [Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning](https://arxiv.org/abs/1910.06151) (2019)
 
 ## Continuous-variables quantum computing
 
