@@ -53,6 +53,7 @@ Variational circuits are quantum circuits with variable parameters that can be o
 * [Machine Learning Phase Transitions with a Quantum Processor](https://arxiv.org/abs/1906.10155) (2019)
 * [Hybrid Quantum-Classical Convolutional Neural Networks](https://arxiv.org/abs/1911.02998) (2019)
 * [Building quantum neural networks based on a swap test](https://arxiv.org/abs/1904.12697) (2019)
+* [Data re-uploading for a universal quantum classifier](https://quantum-journal.org/papers/q-2020-02-06-226/) (2020)
 
 ### QRAM-based quantum ML
 
