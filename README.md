@@ -36,6 +36,7 @@ Variational circuits are quantum circuits with variable parameters that can be o
 * [Robust data encodings for quantum classifiers](https://arxiv.org/abs/2003.01695) (2020)
 * [Quantum embeddings for machine learning](https://arxiv.org/abs/2001.03622) (2020)
 * [Quantum algorithms for approximate function loading](http://arxiv.org/abs/2111.07933) (2021)
+* [Quantum Polar Metric Learning: Efficient Classically Learned Quantum Embeddings](https://arxiv.org/abs/2312.01655) (2023)
 
 ### Classification and regression
 
