@@ -179,6 +179,7 @@ Kingdom of Ewin Tang. Papers showing that a given quantum machine learning algor
 * [Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) (2020)
 * [Medical image classification via quantum neural networks](https://arxiv.org/abs/2109.01831) (2021)
 
+* [ZEPHIRUM (ZYQL): a trivalent quantum programming language with sealed receipts](https://github.com/SerenaSolutions/zephirum-lang) - REFUSED as a first-class verdict for barren plateaus and decoherence; pure-Python QML kernel with tensor-network backends (DOI 10.5281/zenodo.23302046).
 ## Software
 
 * [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989) (2020)
